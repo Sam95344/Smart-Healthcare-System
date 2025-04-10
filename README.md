@@ -109,7 +109,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Copyright-and-license 📌
 
-**Code and documentation Copyright 2021 : Gowthamraj K**
+**Code and documentation Copyright 2024 : Shamshad Alam**
 
 [Portfolio]: https://sam95344.github.io/Student-Portfolio/#
 [instagram]: https://www.instagram.com/mr.sam_8084/?hl=en
